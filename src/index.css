@@ -1,0 +1,60 @@
+img {
+    max-width: 100%;
+}
+
+.text-gray {
+    color: #e7e7e7;
+}
+
+.bg-gray {
+    background-color: #e7e7e7;
+}
+
+/* nav bar css */
+nav.navbar.navbar-expand.navbar-light {
+    flex: 1;
+}
+
+.login-div img {
+    width: 41px;
+    height: 41px;
+}
+
+/* nav bar css ends */
+
+/* rightNav css */
+.social-icon {
+    width: 30px;
+    height: 30px;
+    display: flex;
+}
+
+/* rightNav css ends */
+
+/* leftNav css */
+
+/* leftNav css ends */
+/* trending css */
+.trending-news-header {
+    display: flex;
+    justify-content: space-between;
+    background: #f3f3f3;
+    align-items: center;
+}
+.author {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.author img {
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+}
+
+.author h6 {
+    margin: 0;
+}
+
+/* trending css ends */
